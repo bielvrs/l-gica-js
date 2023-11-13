@@ -1,1 +1,1 @@
-# l-gica-js
+# logica-js
